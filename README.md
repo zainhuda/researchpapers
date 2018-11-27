@@ -1,2 +1,5 @@
-# researchpapers
-Papers I am reading or I am going to read
+# Research Papers
+## Current Log
+https://hhi.harvard.edu/sites/default/files/publications/siig_3_22mar2016.pdf
+
+## Read
